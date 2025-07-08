@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Rugendo Mark Munene**:
+- **rg-mark**:
+- **mark.rugendo@strathmore.edu**:
 
 ## 2. Deployed Portfolio Link
 
@@ -13,7 +13,13 @@
 
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+**Branching**: Separation of features helps in organizing work on different parts of a system while preventing conflicts while collaborating with team members.
+
+**Issue Tracking:** Organization of tasks and tracking progress easily.
+
+**Milestones:** Helped me in planning work and keeping me on track in regards to project phases and timelines.
+
+**Pull Requests:** Helped in reviewing work before merging into the main branch to maintain quality across a development phase of a system.
 
 Example format:
 
@@ -30,7 +36,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ```markdown
 ![Caption](path/to/your/image.png)
 ```
-
+![alt text](<Screenshot 2025-07-07 193745.png>)
 ### A. Milestones and Issues
 
 - Screenshot showing your milestone(s) and the issues linked to it.
